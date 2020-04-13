@@ -131,7 +131,7 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: rgb(31, 30, 30);
 		}
 
 			h2.alt strong {
@@ -1774,6 +1774,7 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			margin: 0 0 2em 0;
+			 
 		}
 
 		.image.left {
@@ -2631,3 +2632,6 @@ input, select, textarea {
 				}
 
 	}
+#banner{
+	color: white;
+}
